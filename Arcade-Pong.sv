@@ -127,7 +127,7 @@ wire [1:0] ar = status[15:14];
 assign VIDEO_ARX = (!ar) ? 8'd4 : (ar - 1'd1);
 assign VIDEO_ARY = (!ar) ? 8'd3 : 12'd0;
 
-`include "build_id.v" 
+`include "build_id.vh" 
 localparam CONF_STR = {
 	"A.PONG;;",
 	"-;",
