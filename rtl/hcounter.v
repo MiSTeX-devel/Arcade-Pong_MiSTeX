@@ -71,3 +71,4 @@ assign hreset = rst;
 assign _hreset = ~hreset;
 
 endmodule
+`default_nettype wire

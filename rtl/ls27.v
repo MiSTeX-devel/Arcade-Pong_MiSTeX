@@ -51,3 +51,4 @@ module ls27
 nor(y, a, b, c);
 
 endmodule
+`default_nettype wire

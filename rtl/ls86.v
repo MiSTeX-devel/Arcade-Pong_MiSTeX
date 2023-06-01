@@ -51,3 +51,4 @@ module ls86
 xor(y, a, b);
 
 endmodule
+`default_nettype wire

@@ -39,3 +39,4 @@ ball_vertical_move bal_vert_move(vvid, vblank, _hit, d1, _h256, d2, h256, c1, c2
 ball_vertical_counter bal_vert(_hsync, _vblank, ab, bb, cb, db, vball16, vball32, vball240, _vvid, vvid);
 
 endmodule
+`default_nettype wire

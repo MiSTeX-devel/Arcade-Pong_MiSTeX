@@ -67,3 +67,4 @@ end
 assign _q = ~q;
 
 endmodule
+`default_nettype wire

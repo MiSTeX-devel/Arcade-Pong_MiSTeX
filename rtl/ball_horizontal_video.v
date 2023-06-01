@@ -50,3 +50,4 @@ ls10 g5c(h7_carry, g7_carry, g6b_out, _load);
 ls20 h6b(qc, qd, h7_carry, g6b_out, _hvid);
 
 endmodule
+`default_nettype wire

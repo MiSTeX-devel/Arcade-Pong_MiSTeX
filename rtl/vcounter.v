@@ -66,3 +66,4 @@ assign vreset = rst;
 assign _vreset = ~vreset;
 
 endmodule
+`default_nettype wire

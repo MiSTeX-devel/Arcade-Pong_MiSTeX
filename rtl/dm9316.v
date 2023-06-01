@@ -96,3 +96,4 @@ png_jkff ff3(_clk, ~c6, ~c5, 1'b1, _clr, qc, _qc);
 png_jkff ff4(_clk, ~c8, ~c7, 1'b1, _clr, qd, _qd);
 
 endmodule
+`default_nettype wire

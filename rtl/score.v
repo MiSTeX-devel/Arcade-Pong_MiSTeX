@@ -45,3 +45,4 @@ score_counters_to_segments sb2(s1a, s1b, s1c, s1d, s1e, _s1e, s2a, s2b, s2c, s2d
 score_segments_to_video sb3(h4, h8, h16, v4, v8, v16, a, b, c, d, e, f, g, score);
 
 endmodule
+`default_nettype wire

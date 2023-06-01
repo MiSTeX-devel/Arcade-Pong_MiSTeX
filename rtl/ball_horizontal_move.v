@@ -70,3 +70,4 @@ ls107 h2a(g1c_out, h1b_to_h2a, h2b_out, 1'b0, h2a_to_h4a, unused5);
 ls00 h4a(h2b_out, h2a_to_h4a, move);
 
 endmodule
+`default_nettype wire

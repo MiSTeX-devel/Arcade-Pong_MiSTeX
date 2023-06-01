@@ -107,3 +107,4 @@ wire pad2, b2, c2, d2;
 paddles paddles(paddle1_vpos, paddle2_vpos, _hsync, _v256, _attract, h4, h128, h256, _h256, b1, c1, d1, pad1, b2, c2, d2, pad2);
 
 endmodule
+`default_nettype wire

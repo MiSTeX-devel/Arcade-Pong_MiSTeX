@@ -56,3 +56,4 @@ wire f2a_out;
 ls25 f2a(g1a_out, v64, v128, d2c_out, 1'b1, f2a_out);
 
 endmodule
+`default_nettype wire

@@ -80,3 +80,4 @@ always @(negedge _hsync) begin
 end
 
 endmodule
+`default_nettype wire

@@ -48,3 +48,4 @@ ls00 h4b(move, r, ba);
 ls00 h4c(h4d_to_h4c, ba, aa);
 
 endmodule
+`default_nettype wire

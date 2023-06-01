@@ -38,3 +38,4 @@ srlatch f5cd(mclk, ~vreset, ~v16, vblank, _vblank);
 assign _vsync = ~(vblank & v4 & ~v8);
 
 endmodule
+`default_nettype wire

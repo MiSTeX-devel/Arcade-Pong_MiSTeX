@@ -60,3 +60,4 @@ png_jkff jkff3(qb,      1'b1,   1'b1, 1'b1,  ~(~r0 | ~r9), qc, unused3);
 png_jkff jkff4(qa, (qc & qb),     qd,   r9,            r0, qd, _qd);
 
 endmodule
+`default_nettype wire

@@ -40,4 +40,4 @@ ls107 f3b(clk7_159, 1'b1, h256, _h256, unused, f3b_to_g3b);
 ls00 g3b(h256, f3b_to_g3b, g3b_to_g2b);
 ls27 g2b(vblank, v4, g3b_to_g2b, net);
 
-endmodule
+endmodule`default_nettype wire

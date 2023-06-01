@@ -51,3 +51,4 @@ module ls30
 assign y = ~(a & b & c & d & e & f & g & h);
 
 endmodule
+`default_nettype wire

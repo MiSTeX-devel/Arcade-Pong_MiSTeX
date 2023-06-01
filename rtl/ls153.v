@@ -64,3 +64,4 @@ or(y1, cc1, cc2, cc3, cc4);
 or(y2, cc5, cc6, cc7, cc8);
 
 endmodule
+`default_nettype wire

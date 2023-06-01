@@ -58,3 +58,4 @@ ls27 g2a(_vpad2, _h256, g3c_out, g2a_out);
 assign pad2 = g2a_out;
 
 endmodule
+`default_nettype wire

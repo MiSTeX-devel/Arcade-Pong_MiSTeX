@@ -84,3 +84,4 @@ always @(negedge q2 or posedge mr) begin
 end
 
 endmodule
+`default_nettype wire

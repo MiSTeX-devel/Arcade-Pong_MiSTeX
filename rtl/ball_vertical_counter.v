@@ -54,3 +54,4 @@ assign vball16 = a3qa;
 assign vball32 = a3qb;
 
 endmodule
+`default_nettype wire

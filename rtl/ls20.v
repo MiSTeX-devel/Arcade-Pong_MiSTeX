@@ -51,3 +51,4 @@ module ls20
 nand(y, a, b, c, d);
 
 endmodule
+`default_nettype wire

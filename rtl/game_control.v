@@ -76,3 +76,4 @@ always @(negedge clk7_159) begin
 end
 
 endmodule
+`default_nettype wire

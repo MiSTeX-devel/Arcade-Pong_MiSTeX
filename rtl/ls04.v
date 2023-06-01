@@ -51,3 +51,4 @@ module ls04
 not(y, a);
 
 endmodule
+`default_nettype wire

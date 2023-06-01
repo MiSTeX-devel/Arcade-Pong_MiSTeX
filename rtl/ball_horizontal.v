@@ -40,3 +40,4 @@ ball_horizontal_direction   ball_hor_dir(move, _hit2, sc, attract, _hit1, l, r, 
 ball_horizontal_video       ball_hor_video(aa, ba, _hblank, clk7_159, _attract, serve, _hvid);
 
 endmodule
+`default_nettype wire

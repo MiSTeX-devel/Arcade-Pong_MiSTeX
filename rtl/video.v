@@ -54,3 +54,4 @@ ls00 b2d(hit, hit, _hit);
 assign score_1_2k = score;
 
 endmodule
+`default_nettype wire

@@ -56,3 +56,4 @@ nor(y, a2, b2);
 // TODO: What's the purpose with x1 and _x1?
 
 endmodule
+`default_nettype wire

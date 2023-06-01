@@ -83,3 +83,4 @@ ls10 d5b(e4a_out, v16, d, d5b_out);
 ls30 d3(d4a_out, d5c_out, c4c_out, d5a_out, 1'b1, d4c_out, d4b_out, d5b_out, score);
 
 endmodule
+`default_nettype wire

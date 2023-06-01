@@ -51,3 +51,4 @@ module ls10
 nand(y, a, b, c);
 
 endmodule
+`default_nettype wire

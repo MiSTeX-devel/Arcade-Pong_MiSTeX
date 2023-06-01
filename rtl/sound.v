@@ -66,3 +66,4 @@ ls00 c1b(_attract, c4b_to_c1b, c1b_out);
 assign sound_out = c1b_out;
 
 endmodule
+`default_nettype wire

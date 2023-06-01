@@ -40,3 +40,4 @@ assign _hsync = ~(hblank & h32);
 
 endmodule
 
+`default_nettype wire

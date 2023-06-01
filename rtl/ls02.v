@@ -51,3 +51,4 @@ module ls02
 nor(y, a, b);
 
 endmodule
+`default_nettype wire

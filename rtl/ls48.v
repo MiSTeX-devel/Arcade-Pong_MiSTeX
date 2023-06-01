@@ -109,3 +109,4 @@ and(gg2, a2_2, a1_2, a0_2);
 and(g, ~gg1, ~gg2);
 
 endmodule
+`default_nettype wire

@@ -104,3 +104,4 @@ assign s2 = l3;
 assign s1 = l4;
 
 endmodule
+`default_nettype wire

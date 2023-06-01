@@ -58,3 +58,4 @@ always @(negedge _clk) begin
 end
 
 endmodule
+`default_nettype wire

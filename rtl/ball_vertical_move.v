@@ -74,3 +74,4 @@ wire /* verilator lint_off UNUSED */ b4_c4 /* verilator lint_on UNUSED */;
 ls83 b4(a4c_out, a4b_out, b6a_out, 1'b0, c4a_out, 1'b1, 1'b1, 1'b0, 1'b0, ab, bb, cb, db, b4_c4);
 
 endmodule
+`default_nettype wire
